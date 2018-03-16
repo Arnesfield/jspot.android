@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">jspot</string>
+    <string name="app_name">JSpot</string>
+    <string name="textView">No internet connection :( Try again.</string>
+    <string name="btn">Refresh</string>
 </resources>
